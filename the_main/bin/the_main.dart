@@ -1,7 +1,7 @@
-import 'package:the_main/14_a.dart';
-import 'package:the_main/the_main.dart' as the_main;
+// Importing dart:io file
+import 'package:the_main/NC1.dart';
 
-void main(List<String> arguments) {
-  print('Hello world: ${the_main.calculate()}!\n');
-  a_14();
+void main()
+{
+  A();
 }
